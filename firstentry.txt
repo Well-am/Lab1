@@ -1,1 +1,2 @@
 hello world
+I'm beginning understand how to broke Git!
